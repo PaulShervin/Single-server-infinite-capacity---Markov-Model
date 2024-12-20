@@ -1,4 +1,4 @@
-# Experiment-01
+# Experiment-04
 # Data : 09/11/24
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
